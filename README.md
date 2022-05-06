@@ -3,6 +3,8 @@
 
 This project was built to practice the implementation of jQuery code.
 
+You can access it [here](https://maiaralopes.github.io/to-do-list/).
+
 
 ## Functionality
 The user should be able to
