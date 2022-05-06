@@ -1,7 +1,7 @@
 
 # To-do List
 
-This project was built to practice the implementation of jQuery code
+This project was built to practice the implementation of jQuery code.
 
 
 ## Functionality
@@ -15,3 +15,6 @@ The user should be able to
 
 
 This app was buit in jQuery.
+
+## Screenshot
+[![To-Do-List-Google-Chrome-2022-05-06-18-01-18.png](https://i.postimg.cc/Dwc2C8HF/To-Do-List-Google-Chrome-2022-05-06-18-01-18.png)](https://postimg.cc/hXfWvPK3)
